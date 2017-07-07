@@ -1,0 +1,4 @@
+filename=user.svg
+color=#012345
+width=100
+height=100
